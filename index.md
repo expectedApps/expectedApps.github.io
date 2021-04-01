@@ -6,6 +6,7 @@ Nos dedicamos em criar aplicativos de qualidade...texto por fazer
 ## Aplicativos
 
 ![Image](icone_por_quanto_vender.png)
+<br>
 Um App focado em ajudar o publico de "faça e venda", com 20k de downloads na Play Store.
 Cliente - Dika Da Naka
 
