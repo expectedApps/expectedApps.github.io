@@ -12,7 +12,7 @@ Cliente - Dika Da Naka
 
 ### Receitas Da Naka
 Um app de culinária, com mais de 800 receitas, todas do canal Dika Da Naka.<br>
-[Política de Privacidade](https://github.com/expectedApps/expectedApps.github.io/edit/main/policy.md)
+[Política de Privacidade](policy.html)
 
 ### Contato e Suporte
 
