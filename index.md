@@ -10,6 +10,10 @@ Somos uma dupla de desenvolvedores, Augusto Wollace De Lima Rengel e Isabel Ramo
 Um App focado em ajudar o publico de "faça e venda", com 20k de downloads na Play Store.
 Cliente - Dika Da Naka
 
+### Receitas Da Naka
+Um app de culinária, com mais de 800 receitas, todas do canal Dika Da Naka.<br>
+[Política de Privacidade](github.com/expectedApps/expectedApps.github.io/edit/main/policy.md)
+
 ### Contato e Suporte
 
 Para relatar erros, dar sugestões ou solicitar oçamentos contate [expected.virgula@gmail.com](mailto:expected.virgula@gmail.com)
