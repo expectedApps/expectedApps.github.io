@@ -1,3 +1,4 @@
+title: ExpectedApps
 ## Quem somos nós?
 
 Somos uma dupla de desenvolvedores, Augusto Wollace De Lima Rengel e Isabel Ramos De Diego Cabado, com 2 aplicativos publicados na Play Store. <br>
