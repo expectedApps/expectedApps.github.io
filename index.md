@@ -2,13 +2,12 @@
 ## Quem somos nós?
 
 Somos uma dupla de desenvolvedores, Augusto Wollace De Lima Rengel e Isabel Ramos De Diego Cabado, com 2 aplicativos publicados na Play Store. <br>
-...texto por fazer...
 
 ## Aplicativos
 
 ![Image](icone_por_quanto_vender.png)
 <br>
-Um App focado em ajudar o publico de "faça e venda", com 20k de downloads na Play Store.
+Um App focado em ajudar o publico de "faça e venda", com 30k de downloads na Play Store.
 Cliente - Dika Da Naka
 
 ### Receitas Da Naka
