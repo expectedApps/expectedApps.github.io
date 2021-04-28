@@ -7,11 +7,12 @@ Somos uma dupla de desenvolvedores, Augusto Wollace De Lima Rengel e Isabel Ramo
 
 ![Image](icone_por_quanto_vender.png)
 <br>
-Um App focado em ajudar o publico de "faça e venda", com 30k de downloads na Play Store.
-Cliente - Dika Da Naka
+Um App focado em ajudar o publico de "faça e venda", com 30k de downloads na Play Store.<br>
+Cliente - Dika Da Naka<br>
 
-### Receitas Da Naka
-Um app de culinária, com mais de 800 receitas, todas do canal Dika Da Naka.<br>
+![Image](icone_receitas_da_naka.png)
+<br>
+Um app de culinária, com mais de 700 receitas, todas do canal Dika Da Naka.<br>
 [Política de Privacidade](policy.html)<br>
 [Termos e Condições de Uso](terms.html)<br>
 [Como deletar a conta](deletar.html)
